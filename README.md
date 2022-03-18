@@ -1,3 +1,11 @@
+# This project has moved to [LittleLink Custom](https://github.com/JulianPrieber/littlelink-custom)
+
+<br>
+
+<br>
+
+<br>
+
 ## _⚙️ LittleLink Admin_
 Forked from [littlelink-admin]
 
